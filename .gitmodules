@@ -1,0 +1,3 @@
+[submodule "vendor/markster-os"]
+	path = vendor/markster-os
+	url = https://github.com/markster/markster-os.git
